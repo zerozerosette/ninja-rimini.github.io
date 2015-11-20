@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sito web del Ninja Coder di Rimini</title>
+    <description>Questo è un sito di prova realizzato dai Ninja del Coderdojo di Rimini (Italy). Realizziamo la struttura e le pagine e impariamo come gestire e aggiornare un semplice sito web oltre che alcuni linguaggi di marcatura.
+</description>
+    <link>http://ninja-rimini.github.io/</link>
+    <atom:link href="http://ninja-rimini.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 20 Nov 2015 18:31:17 +0100</pubDate>
+    <lastBuildDate>Fri, 20 Nov 2015 18:31:17 +0100</lastBuildDate>
+    <generator>Jekyll v3.0.1</generator>
+    
+      <item>
+        <title>Welcome to Coderdojo Rimini and Jekyll!</title>
+        <description>&lt;p&gt;I post del sito sono nella cartella /miosito/_posts della tua home Ninja.&lt;/p&gt;
+
+&lt;p&gt;Vai e cambiami pure come credi, poi ricostruisci il sito e guarda i risultati.
+Puoi ricostruire il sito in diversi modi, ma la via più semplice è lanciare il comando ‘jekyll serve’ che apre un web server locale e ricrea automaticamente il sito se ci sono stati aggiornamenti.
+Per aggiungere nuove pagine (post) semplicemente aggiungi un file di testo nella directory ‘_posts’ e nominalo in questo modo ‘AAAA-MM-GG-titolo-del-post.estensione’. 
+Guarda il sorgente di questo post per capire come funziona.&lt;/p&gt;
+
+&lt;p&gt;Jekyllo offre anche un utile supporto per il codice da inserire nelle pagine:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&#39;Tom&#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints &#39;Hi, Tom&#39; to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;Leggi il &lt;a href=&quot;http://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; per maggiori informazioni su come ottenere di più da Jekyll. Invia le segnalazioni e le richieste di migliramento a &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekill’s GitHub repo&lt;/a&gt;. 
+Se hai dubbi puoi chiedere qui &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 20 Nov 2015 16:41:00 +0100</pubDate>
+        <link>http://ninja-rimini.github.io/jekyll/update/2015/11/20/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://ninja-rimini.github.io/jekyll/update/2015/11/20/welcome-to-jekyll.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
+    
+  </channel>
+</rss>
