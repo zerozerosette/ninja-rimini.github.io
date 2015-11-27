@@ -11,7 +11,7 @@ Puoi ricostruire il sito in diversi modi, ma la via più semplice è lanciare il
 Per aggiungere nuove pagine (post) semplicemente aggiungi un file di testo nella directory '_posts' e nominalo in questo modo 'AAAA-MM-GG-titolo-del-post.estensione'. 
 Guarda il sorgente di questo post per capire come funziona.
 
-Jekyllo offre anche un utile supporto per il codice da inserire nelle pagine:
+Jekyll offre anche un utile supporto per il codice da inserire nelle pagine:
 
 {% highlight ruby %}
 def print_hi(name)
